@@ -140,5 +140,7 @@ div.paragraph-one {
     font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
 }
 
-
+div.paragraph-two {
+    margin-top: 30px;
+}
 
