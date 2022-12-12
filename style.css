@@ -121,7 +121,7 @@ div.image {
 
 div.img-credit {
     margin-left: 70px;
-    color: brown;
+    color: black;
     font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
     font-size: 12px;
     font-weight: 600;
@@ -129,7 +129,7 @@ div.img-credit {
 
 div.img-ref {
     margin-left: 70px;
-    color: brown;
+    color: black;
     font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
     font-size: 12px;
 }
