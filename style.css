@@ -127,4 +127,10 @@ div.img-credit {
     font-weight: 600;
 }
 
+div.img-ref {
+    margin-left: 70px;
+    color: brown;
+    font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
+    font-size: 12px;
+}
 
