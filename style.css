@@ -100,3 +100,14 @@ div.lineone  {
     margin-top: -10px;
 }
 
+div.heading {
+    margin-left: 70px;
+    font-size: 30px;
+    font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
+    letter-spacing: -5px;
+}
+
+div.headingtwo {
+    margin-top: -60px;
+}
+
