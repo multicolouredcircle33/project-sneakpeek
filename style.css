@@ -119,3 +119,11 @@ div.image {
     margin-left: 70px;
 }
 
+div.img-credit {
+    margin-left: 70px;
+    color: brown;
+    font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+}
+
