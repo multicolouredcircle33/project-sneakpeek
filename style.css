@@ -1,4 +1,4 @@
-div.topic {
+div.toplinks {
     margin-top: 200px;
     display: flex;
     /*background-color: blue;*/
@@ -47,6 +47,50 @@ div.pricesale1 {
 
 #HPS {
    color: azure;
+}
+
+.extras {
+    display: flex;
+    width: 80%;
+    margin-left: 50px;
+}
+
+span.ext {
+    width: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+    margin: 20px;
+}
+
+
+span.ext:hover {
+    color: #00bcfc;
+}
+
+.more {
+    position: relative;
+    display: inline-block;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    width: fit-content;
+    padding: 12px 16px;
+    z-index: 1;
+  }
+
+.more:hover .dropdown-content {
+    display: block;
+}
+
+div.extras1 {
+    display: flex;
+}
+
+span#exlink{
+   color: #00bcfc;
 }
 
 
