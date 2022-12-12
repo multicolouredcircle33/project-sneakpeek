@@ -202,4 +202,26 @@ div.paragraph-four {
     font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
 }
 
+div.more  {
+    width: 800px; 
+    margin-left: 70px;
+    font-family: Titillium Web,Helvetica,Trebuchet MS,Arial,sans-serif;
+    margin-top: 30px;
+}
+
+#planets {
+    background-color: #005587;
+    color: white;
+    margin-right: 10px;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+#mars {
+    background-color: #005587;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    border-radius: 4px;
+}
+
 
