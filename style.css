@@ -93,4 +93,10 @@ span#exlink{
    color: #00bcfc;
 }
 
+div.lineone  {
+    height: 1px;
+    width: 100%;
+    background-color: black;
+    margin-top: -10px;
+}
 
