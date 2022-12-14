@@ -42,7 +42,7 @@ div.pricesale1 {
 }
 
 #HPS {
-   color: azure;
+  color: azure;
 }
 
 .extras {
@@ -67,7 +67,7 @@ span.ext:hover {
   display: inline-block;
 }
 
-  .dropdown-content {
+.dropdown-content {
   display: none;
   position: absolute;
   background-color: #f9f9f9;
@@ -88,7 +88,7 @@ span#exlink {
   color: #00bcfc;
 }
 
-div.lineone  {
+div.lineone {
   height: 1px;
   width: 100%;
   background-color: black;
@@ -140,12 +140,12 @@ div.paragraph-two {
 }
 
 div.paragraph-three {
-  margin-top: 30px
+  margin-top: 30px;
 }
 
 .nav-link:hover {
   color: #00bcfc;
-  text-decoration:#000 underline 10px;
+  text-decoration: #000 underline 10px;
   text-underline-offset: 5px;
 }
 
@@ -161,15 +161,12 @@ div.readmore {
   background-color: #f5f5f5;
   width: 800px;
   height: 40px;
-  margin: 50px 0px 30px 70px;
+  margin: 50px 0 30px 70px;
   font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
   text-align: center;
   line-height: 40px;
 }
 
-div.paragraph-four {
-  margin-top: 30px;
-}
 div.paragraph-five {
   margin-top: 30px;
 }
@@ -194,6 +191,7 @@ div.paragraph-four {
   margin-left: 70px;
   font-size: large;
   font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+  margin-top: 30px;
 }
 
 div.more  {
