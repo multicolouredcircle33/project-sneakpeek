@@ -16,13 +16,13 @@ span#NL {
 a {
   text-decoration: none;
   font-weight: 800;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: black;
 }
 
 div.newscientist {
   width: 100%;
-  font-family: "PT SERIF", Georgia, 'Times New Roman', Times, serif;
+  font-family: "PT SERIF", Georgia, "Times New Roman", Times, serif;
   font-style: normal;
   font-size: xx-large;
   font-weight: 600;
@@ -53,7 +53,7 @@ div.pricesale1 {
 
 span.ext {
   width: 100%;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   font-size: 16px;
   margin: 20px;
 }
@@ -176,7 +176,7 @@ div.paragraph-six {
 }
 
 div.journal-ref {
-  width: 800px; 
+  width: 800px;
   margin-left: 70px;
   font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
 }
@@ -195,7 +195,7 @@ div.paragraph-four {
 }
 
 div.more {
-  width: 800px; 
+  width: 800px;
   margin-left: 70px;
   font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
   margin-top: 30px;
