@@ -194,7 +194,7 @@ div.paragraph-four {
   margin-top: 30px;
 }
 
-div.more  {
+div.more {
   width: 800px; 
   margin-left: 70px;
   font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
@@ -218,6 +218,6 @@ div.more  {
 
 #exlink:hover {
   color: #00bcfc;
-  text-decoration:#000 underline 10px;
+  text-decoration: #000 underline 10px;
   text-underline-offset: 5px;
 }
