@@ -1,0 +1,223 @@
+div.toplinks {
+  margin-top: 200px;
+  display: flex;
+  text-align: center;
+}
+
+div.newsletter {
+  width: 100%;
+  margin-top: 60px;
+}
+
+span#NL {
+  color: #00bcfc;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 800;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+}
+
+div.newscientist {
+  width: 100%;
+  font-family: "PT SERIF", Georgia, "Times New Roman", Times, serif;
+  font-style: normal;
+  font-size: xx-large;
+  font-weight: 600;
+  letter-spacing: -5px;
+}
+
+div.pricesale {
+  width: 100%;
+  margin-top: 50px;
+}
+
+div.pricesale1 {
+  background-color: #00bcfc;
+  width: 250px;
+  margin-left: 100px;
+  height: 30px;
+}
+
+#HPS {
+  color: azure;
+}
+
+.extras {
+  display: flex;
+  width: 80%;
+  margin-left: 50px;
+}
+
+span.ext {
+  width: 100%;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 16px;
+  margin: 20px;
+}
+
+span.ext:hover {
+  color: #00bcfc;
+}
+
+.more {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  width: fit-content;
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.more:hover .dropdown-content {
+  display: block;
+}
+
+div.extras1 {
+  display: flex;
+}
+
+span#exlink {
+  color: #00bcfc;
+}
+
+div.lineone {
+  height: 1px;
+  width: 100%;
+  background-color: black;
+  margin-top: -10px;
+}
+
+div.heading {
+  margin-left: 70px;
+  font-size: 30px;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+  letter-spacing: -5px;
+}
+
+div.headingtwo {
+  margin-top: -60px;
+}
+
+.author {
+  margin-left: 70px;
+}
+
+div.image {
+  margin-left: 70px;
+}
+
+div.img-credit {
+  margin-left: 70px;
+  color: black;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+div.img-ref {
+  margin-left: 70px;
+  color: black;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+  font-size: 12px;
+}
+
+div.paragraph-one {
+  margin-left: 70px;
+  font-size: large;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+}
+
+div.paragraph-two {
+  margin-top: 30px;
+}
+
+div.paragraph-three {
+  margin-top: 30px;
+}
+
+.nav-link:hover {
+  color: #00bcfc;
+  text-decoration: #000 underline 10px;
+  text-underline-offset: 5px;
+}
+
+span#Leah {
+  color: #00bcfc;
+}
+
+#bodylink {
+  color: #00bcfc;
+}
+
+div.readmore {
+  background-color: #f5f5f5;
+  width: 800px;
+  height: 40px;
+  margin: 50px 0 30px 70px;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+  text-align: center;
+  line-height: 40px;
+}
+
+div.paragraph-five {
+  margin-top: 30px;
+}
+
+div.paragraph-six {
+  margin-top: 30px;
+}
+
+div.journal-ref {
+  width: 800px;
+  margin-left: 70px;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+}
+
+div.signup {
+  margin-left: 70px;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+  margin-top: 15px;
+}
+
+div.paragraph-four {
+  margin-left: 70px;
+  font-size: large;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+  margin-top: 30px;
+}
+
+div.more {
+  width: 800px;
+  margin-left: 70px;
+  font-family: Titillium Web, Helvetica, Trebuchet MS, Arial, sans-serif;
+  margin-top: 30px;
+}
+
+#planets {
+  background-color: #005587;
+  color: white;
+  margin-right: 10px;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#mars {
+  background-color: #005587;
+  color: rgb(255, 255, 255);
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#exlink:hover {
+  color: #00bcfc;
+  text-decoration: #000 underline 10px;
+  text-underline-offset: 5px;
+}
